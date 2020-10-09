@@ -16,10 +16,5 @@ export default {
   components: {
     EssentialLink
   },
-
-  data () {
-    return {
-    }
-  }
 }
 </script>
